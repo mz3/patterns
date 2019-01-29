@@ -1,4 +1,4 @@
-# Microservice development in Javascript
+# Javascript ependency injection and microservices
 
 ## Singletons
 
