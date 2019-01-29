@@ -30,7 +30,7 @@ This is an extremely common pattern, but can be difficult to work with for sever
 
 1. Library-specific code is introduced into the implementation layer
 
-Because Javascript is asynchronous, it is impossible to export an instance of `Db` from `mongodb.js`, and so it becomes the implementation's responsibility to do that. As applications grow, this quickly becomes unwieldy as more services must be configured before the application can start. The application must know 
+Because Javascript is asynchronous, it is impossible to export an instance of `Db` from `mongodb.js`, and so it becomes the implementation's responsibility to do that. As applications grow, this quickly becomes unwieldy as more services must be configured before the application can start.
 
 2. Modules must be able to self-configure
 
