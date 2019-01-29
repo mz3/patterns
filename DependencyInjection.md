@@ -1,4 +1,4 @@
-# Javascript ependency injection and microservices
+# Javascript dependency injection and microservices
 
 ## Singletons
 
